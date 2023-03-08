@@ -1,0 +1,8 @@
+.vscode
+Library
+Temp
+UnityPackageManager
+.vs
+Build
+*.sln
+*.csproj
